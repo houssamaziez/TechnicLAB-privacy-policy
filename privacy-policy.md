@@ -57,7 +57,7 @@ Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We encourage users to review this page periodically for changes. Any updates will be posted on this page.
 
-This policy is effective as of: 2025-05-26
+This policy is effective as of: 2025-11-25
 
 Contact Us
 
