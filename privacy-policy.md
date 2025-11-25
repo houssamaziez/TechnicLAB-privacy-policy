@@ -1,5 +1,5 @@
 
-MFormatik built the TechnicLAB app as a Free E-commerce application. This SERVICE is provided by MFormatik at no cost and is intended for use as is.
+MFormatik built the TechnicLAB ALGÉRIE app as a Free E-commerce application. This SERVICE is provided by MFormatik at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information for anyone choosing to use our Service.
 
